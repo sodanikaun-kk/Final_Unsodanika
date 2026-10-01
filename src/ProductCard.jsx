@@ -2,7 +2,7 @@ import React from 'react'
 
 function ProductCard({ product }) {
   return (
-    <div className="w-72 bg-gray-100 rounded-2xl shadow-lg border border-gray-200 p-6">
+    <div className="w-72 bg-teal-100 rounded-2xl shadow-lg border border-teal-200 p-6">
 
       <img
         src={product.thumbnail}
